@@ -32,10 +32,10 @@ Dive into the world of video game sales with Game Sales Analysis! 🎮📈 In th
 </div>
 
 ## 💡 Insights
-- 
-- 
-- 
-- 
+- Average Critic score of the games is **7.48/10**.
+- Average User score of the games is **7.00/10**.
+- **2018** is the year in which has the record of getting the most games published.
+- **Dragon Ball FighterZ** is the game which has the highest User score.
 
 ## 👨🏻‍🏫 Presentation
 
